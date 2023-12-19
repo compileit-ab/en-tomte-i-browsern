@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "En tomte i browsern!",
+  "version": "1.0",
+  "description": "Kanske inte den mest funktionella extension, men ibland behöver man också ha lite kul, eller hur?",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_title": "Klicka på tomten!",
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
