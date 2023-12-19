@@ -8,7 +8,7 @@ Välkommen till lucka nummer 19 i Compileits julkalender. Idag vill vi visa hur 
 
 ### Ladda ner vår tomte:
 
-1. Klona detta GitHub-repository till din dator, du kan göra det genom att trycka "code" och sedan "download zip" eller:
+1. Spara ner detta GitHub-repository till din dator, du kan göra det genom att trycka på den gröna knappen "code" precis uppe till höger om denna fil och sedan "download zip" eller:
 
    ```bash
    git clone https://github.com/compileit/chrome-extension-santa.git
