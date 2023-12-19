@@ -11,17 +11,13 @@ Välkommen till lucka nummer 19 i Compileits julkalender. Idag vill vi visa hur 
 
 ### Ladda ner vår tomte:
 
-1. Spara ner detta GitHub-repository till din dator, du kan göra det genom att trycka på den gröna knappen "code" precis uppe till höger om denna fil och sedan "download zip" eller:
-
-   ```bash
-   git clone https://github.com/compileit-ab/en-tomte-i-browsern.git
-   ```
+1. Spara ner detta GitHub-repository till din dator, du kan göra det genom att trycka på den gröna knappen "code" precis uppe till höger om denna fil och sedan "download zip". Glöm inte att dubbelklicka på den nerladdade mappen för att unzip. 
 
 2. Öppna Chrome och gå till `chrome://extensions/`
 
 3. Aktivera "Developer mode/Programmerarläge" längst upp till höger.
 
-4. Klicka på "Load unpacked/Läs in okomprimerat tillägg" och välj mappen där du klonade detta repository.
+4. Klicka på "Load unpacked/Läs in okomprimerat tillägg" längst upp till vänster och välj den unzippade mappen där du klonade detta repository.
 
 5. Vår tomte i browsern bör nu visas i listan över installerade extensions. Tryck på ikonen och ha kul :)
 
