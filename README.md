@@ -26,7 +26,7 @@ Välkommen till lucka nummer 19 i Compileits julkalender. Idag vill vi visa hur 
 ### Steg att följa:
 
 1. **Skapa en mappstruktur:**
-   Skapa en mapp för din extension med filer som manifest.json, popup.css, popup.html, background.js samt bilder (ikoner) om du behöver.
+   Skapa en mapp för din extension med filer som manifest.json, popup.css, popup.html, background.js samt bilder (ikoner) om du behöver. Beroende på vad du väljer att bygga kommer din struktur se annorlunda utt men nedan följer ett simpelt exempel. Du hittar den fulla dokumentationen för [Chrome Extensions här](https://developer.chrome.com/docs/extensions/develop). 
 
    Exempel:
 
