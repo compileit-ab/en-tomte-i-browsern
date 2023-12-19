@@ -1,0 +1,73 @@
+body {
+  width: 500px;
+  height: 500px;
+  text-align: center;
+  background-color: darkred;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#santa-container {
+  animation: jump 4s infinite alternate;
+  position: fixed;
+  bottom: 20px;
+}
+
+#santa-container img {
+  width: 300px;
+  height: 300px;
+}
+
+#message-btn {
+  background-color: transparent;
+  border: none;
+  padding-top: 24px;
+}
+
+#chatContainer {
+  position: relative;
+  max-width: 300px;
+  padding: 10px 5px;
+  border-radius: 10px;
+  background-color: #fff;
+  margin-top: 20px;
+}
+
+.chat-text {
+  margin: 0;
+  font-size: 24px;
+  color: #000;
+
+  span {
+    font-weight: bold;
+  }
+}
+
+.chat-arrow {
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 10px 10px 0;
+  border-color: #fff transparent transparent transparent;
+  bottom: -10px;
+  left: 50%;
+  margin-left: -10px;
+}
+
+@keyframes jump {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  25% {
+    transform: translateY(-20px);
+  }
+  50% {
+    transform: translateY(0);
+  }
+  75% {
+    transform: translateY(-20px);
+  }
+}
