@@ -36,7 +36,6 @@ Välkommen till lucka nummer 19 i Compileits julkalender. Idag vill vi visa hur 
    ├── manifest.json
    ├── popup.html
    ├── popup.css
-   ├── background.js
    ├── icon16.png
    ├── icon48.png
    ├── icon128.png
