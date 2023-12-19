@@ -11,7 +11,7 @@ Välkommen till lucka nummer 19 i Compileits julkalender. Idag vill vi visa hur 
 1. Spara ner detta GitHub-repository till din dator, du kan göra det genom att trycka på den gröna knappen "code" precis uppe till höger om denna fil och sedan "download zip" eller:
 
    ```bash
-   git clone https://github.com/compileit/chrome-extension-santa.git
+   git clone https://github.com/compileit-ab/en-tomte-i-browsern.git
    ```
 
 2. Öppna Chrome och gå till `chrome://extensions/`
@@ -36,6 +36,7 @@ Välkommen till lucka nummer 19 i Compileits julkalender. Idag vill vi visa hur 
    ├── manifest.json
    ├── popup.html
    ├── popup.css
+   ├── popup.js
    ├── icon16.png
    ├── icon48.png
    ├── icon128.png
