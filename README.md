@@ -1,5 +1,8 @@
 # En tomte i browsern - Chrome Extension 🎅
 
+<img width="791" alt="en-tomte-i-browsern" src="https://github.com/compileit-ab/en-tomte-i-browsern/assets/57670121/406ca562-6b06-497e-9877-ba08b206d255">
+
+
 ## Beskrivning
 
 Välkommen till lucka nummer 19 i Compileits julkalender. Idag vill vi visa hur man enkelt kan bygga en helt egen Chrome Extension. "En tomte i browsern," är kanske inte den mest funktionella, men vi hoppas att den kan sprida lite glädje och kanske inspirera till nya ideér i dessa juletider. Nedan finner du både instruktioner för att ladda ner den tomte vi har skapat och instruktioner för att skapa din helt egen!
